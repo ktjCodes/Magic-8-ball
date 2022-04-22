@@ -37,4 +37,4 @@ switch (randomNumber) {
   default:
     eightball = "Not sure, try again";
 }
-console.log
+console.log(eightball)
